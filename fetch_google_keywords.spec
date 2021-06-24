@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['fetch_google_keywords.py'],
-             pathex=['/Users/jadhavkarthik/Desktop/attryb/pyenv/keyword-suggestions-mac'],
+             pathex=['/Users/jadhavkarthik/Desktop/attryb/pyenv/fetch_google_keywords'],
              binaries=[],
              datas=[],
              hiddenimports=[],
